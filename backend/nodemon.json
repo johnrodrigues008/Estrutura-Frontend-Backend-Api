@@ -1,0 +1,4 @@
+{
+      "watch":["src/","app/"],
+      "ignore":["node_modules"]
+}
